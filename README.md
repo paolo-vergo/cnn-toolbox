@@ -1,10 +1,15 @@
-# convneunet
-## Classification, Segmentation and Visual Query Answeing (VQA) with Convolutional Neural Network (CNN)
+# Classification, Segmentation and Visual Query Answeing (VQA) with Convolutional Neural Network (CNN)
 
-These are 3 independent projects developed on Python using Tensorflow on Convolutional Neural Networks. 
-The first dealt with Multiclass image classification (mainly using Transfer Learning), the second was focused on Image Segmentation, using a patch based mechanism with U-Net. Finally the third project was focused on VQA combing an image feature extractor with an attention Mechanism.
+These are 3 independent projects on CNN developed with **Python using Tensorflow** 
+
+# Structure 
+
+1. Multiclass image classification (mainly using Transfer Learning)
+2. Image Segmentation, using a patch based mechanism with U-Net
+3. VQA combing an image feature extractor with an attention Mechanism
 
 For each project the code versions for Windows/Linux and for OSX are included.
+
 
 # Authors
 Davide Caffù  *Politecnico di Milano - MSc in Statistical Learning*
