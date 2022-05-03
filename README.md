@@ -1,4 +1,4 @@
-# Classification, Segmentation and Visual Query Answeing (VQA) with Convolutional Neural Network (CNN)
+# Classification, Segmentation and Visual Query Answeing with Convolutional Neural Network 
 
 These are 3 independent projects on CNN developed with **Python using Tensorflow** 
 
