@@ -1,6 +1,8 @@
-# CNN Toolbox: Classification, Segmentation, and Visual Query Answering
+<h1 align="center">CNN Toolbox: Classification, Segmentation, and Visual Query Answering</h1>
 
-![CNN Toolbox Banner](https://www.kaleabtessera.com/media/icon_huee585d3feb74d4cfdb431de9b1d76912_24111_512x512_fill_lanczos_center_3.png)
+<p align="center">
+  <img src="https://www.kaleabtessera.com/media/icon_huee585d3feb74d4cfdb431de9b1d76912_24111_512x512_fill_lanczos_center_3.png" alt="CNN Toolbox Banner">
+</p>
 
 ## Introduction
 
